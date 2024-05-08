@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ulka Chaudhari
+- 👀 I’m interested in Artificial Intelligence, Data Analysis, Python
+- 🌱 I’m currently learning Artificial Intelligence and Data Science
